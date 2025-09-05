@@ -12,4 +12,4 @@ if n2 != 0
     println("Divisão: ", n1 / n2)
 else
     println("Não é possível dividir por zero.")
-end￼Enter
+end
